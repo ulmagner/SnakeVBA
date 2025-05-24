@@ -1,3 +1,3 @@
 # SnakeVBA
 little snake game in VBA
-![Project Demo](snake.PNG)
+![Project Demo](snake.png)
